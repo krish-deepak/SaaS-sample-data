@@ -16,7 +16,7 @@ To analyze key performance metrics across SaaS companies and discover:
 
 ## 🗂️ Project Files
 - saas_revenue_analytics.ipynb # Main analysis notebook
-- saas_revenue_dataset.csv # Dataset used in analysis
+- saas_revenue_dataset.csv # Dataset used in analysis 
 - README.md
 
 ---
@@ -57,9 +57,20 @@ These insights can help business teams focus on the right levers for improving r
 
 ## 🚀 How to Run
 
-1. Clone this repository  
-2. Open `saas_revenue_analytics.ipynb` in Jupyter  
-3. Run all cells sequentially to reproduce the analysis and plots
+1.The dataset used in this project is available in Google Sheets and can be downloaded as CSV:
+
+➡️ [Download saas_revenue_dataset.csv](https://docs.google.com/spreadsheets/d/1huXOVIomC9asg64d3pRtMsKlS0_z4uDqGs57_tDf5Is/gviz/tq?tqx=out:csv&sheet=saas_revenue_dataset)
+
+This CSV contains monthly metrics like:
+- ARR / MRR
+- Churn rate
+- NPS
+- Marketing spend
+- New subscribers
+- Employees
+2. Clone this repository  
+3. Open `saas_revenue_analytics.ipynb` in Jupyter  
+4. Run all cells sequentially to reproduce the analysis and plots
 
 ---
 
